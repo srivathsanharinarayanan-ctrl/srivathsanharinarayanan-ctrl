@@ -1,11 +1,6 @@
 <div align="center">
-  <img src="assets/profile-banner.png" width="100%" alt="Srivathsan HN — galaxy banner" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=55D6FF&center=true&vCenter=true&width=850&lines=Astrophysics+%7C+Scientific+Computing;Exploring+the+Universe+Through+Data;Building+AI+Tools+and+Open-Source+Projects;Curiosity+Driven+by+Science+and+Code" alt="Animated introduction" />
-  <br />
-  <a href="https://github.com/srivathsanharinarayanan-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-102b46?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
-  <a href="https://github.com/srivathsanharinarayanan-ctrl"><img src="https://img.shields.io/badge/GitHub-Profile-0b6e99?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://github.com/srivathsanharinarayanan-ctrl?tab=activity"><img src="https://img.shields.io/badge/Focus-Astrophysics%20%26%20AI-312e81?style=for-the-badge&logoColor=white" alt="Astrophysics and AI" /></a>
+  <h1><strong>SRIVATHSAN H.N.</strong></h1>
+  <img src="assets/galaxy-3d.gif" width="100%" alt="A looping, rotating 3D-style spiral galaxy in deep space" />
 </div>
 
 ---
