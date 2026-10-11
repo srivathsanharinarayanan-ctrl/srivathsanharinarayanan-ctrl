@@ -1,133 +1,108 @@
-
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:102b46,100:00d9ff&height=200&section=header&text=Srivathsan%20H.N.&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Astrophysics%20%7C%20Astronomical%20Data%20%7C%20AI%20%26%20Open%20Source&descAlignY=58&descSize=16" width="100%" alt="Profile header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Exploring+the+Universe+Through+Data;Independent+Astrophysics+Research;Building+Tools+for+Scientific+Discovery;AI+%2B+Astronomy+%2B+Open+Source" alt="Animated introduction" />
-</a>
-
-<br/>
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl">
-  <img src="https://img.shields.io/badge/GitHub-Profile-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/srivathsanharinarayanan-ctrl?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore-Projects-0b6e99?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Astrophysics-102b46?style=for-the-badge&logo=apachespark&logoColor=00d9ff" alt="Astrophysics"/>
-
+  <img src="assets/profile-banner.png" width="100%" alt="Srivathsan HN — galaxy banner" />
+  <br />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1100&color=55D6FF&center=true&vCenter=true&width=850&lines=Astrophysics+%7C+Scientific+Computing;Exploring+the+Universe+Through+Data;Building+AI+Tools+and+Open-Source+Projects;Curiosity+Driven+by+Science+and+Code" alt="Animated introduction" />
+  <br />
+  <a href="https://github.com/srivathsanharinarayanan-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-102b46?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://github.com/srivathsanharinarayanan-ctrl"><img src="https://img.shields.io/badge/GitHub-Profile-0b6e99?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/srivathsanharinarayanan-ctrl?tab=activity"><img src="https://img.shields.io/badge/Focus-Astrophysics%20%26%20AI-312e81?style=for-the-badge&logoColor=white" alt="Astrophysics and AI" /></a>
 </div>
 
 ---
 
-## 🌌 About Me
+## About Me
 
-I'm Srivathsan H.N., an independent astronomy enthusiast and developer exploring the intersection of **astrophysics, scientific data analysis, and artificial intelligence**.
+I'm Srivathsan H.N., an independent astronomy enthusiast and developer interested in the intersection of astrophysics, scientific data analysis, and artificial intelligence.
 
-I build projects that investigate astronomical questions, organize scientific datasets, and explore ways to make research more computationally accessible.
+I build projects that explore astronomical questions, organize scientific datasets, and investigate how code can make scientific research more accessible and reproducible.
 
-- 🔭 **Astrophysics:** Stellar systems, M-dwarfs, brown dwarfs, exoplanets, and variable-star research.
-- 📊 **Scientific computing:** Data pipelines, mathematical modeling, astronomical catalogs, and analysis of publicly available observations.
-- 🤖 **AI & automation:** Experimenting with local language models, autonomous agents, and developer tools.
-- 🛠️ **Open source:** Turning research questions into documented, reproducible projects.
-- 🌠 **Long-term goal:** Build useful scientific software and contribute meaningful work to astronomy.
+- **Astrophysics:** stellar systems, M-dwarfs, brown dwarfs, exoplanets, and variable-star research.
+- **Scientific computing:** data pipelines, mathematical modeling, astronomical catalogs, and analysis of public datasets.
+- **AI and automation:** local language models, agent workflows, and developer tools.
+- **Academic exchange:** I have worked with many professors on astronomy and research-related topics.
+- **Open source:** developing and documenting projects that turn research questions into practical tools.
 
-> "The universe is not only something to observe; it is something we can investigate through data, mathematics, and code."
+> My goal is to connect scientific curiosity with computation and build tools that help people explore the universe through data.
 
 ---
 
-## 🔬 Featured Research & Projects
+## Research and Featured Projects
 
 <div align="center">
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl/Resolving-Geometric-Viewing-Inclination-Anomalies-in-Fully-Convective-M-Dwarf-Stars">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=Resolving-Geometric-Viewing-Inclination-Anomalies-in-Fully-Convective-M-Dwarf-Stars&theme=tokyonight&hide_border=true" alt="M dwarf inclination project"/>
-</a>
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl/SVHZ-Planetary-Habitability-Index-Catalog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=SVHZ-Planetary-Habitability-Index-Catalog&theme=tokyonight&hide_border=true" alt="Planetary habitability catalog"/>
-</a>
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl/M-Dwarf-Brown-Dwarf-Twin-Binaries">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=M-Dwarf-Brown-Dwarf-Twin-Binaries&theme=tokyonight&hide_border=true" alt="M dwarf brown dwarf binaries"/>
-</a>
-
+  <a href="https://github.com/srivathsanharinarayanan-ctrl/Resolving-Geometric-Viewing-Inclination-Anomalies-in-Fully-Convective-M-Dwarf-Stars">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=Resolving-Geometric-Viewing-Inclination-Anomalies-in-Fully-Convective-M-Dwarf-Stars&theme=tokyonight&hide_border=true" alt="Geometric viewing inclination project" />
+  </a>
+  <a href="https://github.com/srivathsanharinarayanan-ctrl/SVHZ-Planetary-Habitability-Index-Catalog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=SVHZ-Planetary-Habitability-Index-Catalog&theme=tokyonight&hide_border=true" alt="Planetary habitability catalog" />
+  </a>
+  <a href="https://github.com/srivathsanharinarayanan-ctrl/M-Dwarf-Brown-Dwarf-Twin-Binaries">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=srivathsanharinarayanan-ctrl&repo=M-Dwarf-Brown-Dwarf-Twin-Binaries&theme=tokyonight&hide_border=true" alt="M-dwarf and brown-dwarf twin binaries" />
+  </a>
 </div>
 
-### 🛰️ Current research directions
+### Research directions
 
-**Geometric viewing-inclination anomalies**  
-Computational investigation of viewing geometry in fully convective M-dwarf stars, using an optimization-oriented data pipeline.
+**Geometric viewing-inclination anomalies in fully convective M-dwarf stars**  
+A computational project exploring viewing geometry and optimization-based approaches to astronomical data.
 
-**Stellar and planetary catalogs**  
-Organizing astronomical candidates and exploring scientific properties using observational datasets.
+**Planetary habitability catalogs**  
+Organizing candidate information and exploring ways to present habitability-related parameters from astronomical datasets.
 
-**M-dwarf–brown-dwarf twin binaries**  
-Exploring questions surrounding these binary systems and the astrophysical processes that may explain them.
+**M-dwarf and brown-dwarf twin binaries**  
+Exploring stellar and substellar binary systems and the questions they raise about formation and evolution.
 
 ---
 
-## 🧰 Technologies & Interests
+## Technology and Interests
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Astronomy-Research-101827?style=for-the-badge&logo=astronomy&logoColor=white" alt="Astronomy"/>
-<img src="https://img.shields.io/badge/AI-Local%20Models-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
-<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
-<img src="https://img.shields.io/badge/Data-Analysis-008B8B?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Analysis"/>
-
+  <img src="https://img.shields.io/badge/Python-Scientific%20Computing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Astronomy-Research-172554?style=for-the-badge&logoColor=white" alt="Astronomy" />
+  <img src="https://img.shields.io/badge/AI-Local%20Models-6D28D9?style=for-the-badge&logoColor=white" alt="AI" />
+  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Open source" />
+  <img src="https://img.shields.io/badge/Data-Analysis-0F766E?style=for-the-badge&logoColor=white" alt="Data analysis" />
 </div>
 
-**Areas I explore**
-
-- Scientific programming and numerical methods
-- Astronomical data processing and visualization
-- AI-assisted research workflows
-- Local LLMs and autonomous-agent systems
-- Developer tooling and reproducible science
+My current interests include scientific programming, astronomical data processing, numerical methods, AI-assisted research workflows, local LLMs, autonomous-agent systems, and reproducible open-source science.
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Dashboard
 
 <div align="center">
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=srivathsanharinarayanan-ctrl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/srivathsanharinarayanan-ctrl">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivathsanharinarayanan-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=srivathsanharinarayanan-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%"/>
-
+  <a href="https://github.com/srivathsanharinarayanan-ctrl">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=srivathsanharinarayanan-ctrl&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+  </a>
+  <a href="https://github.com/srivathsanharinarayanan-ctrl">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivathsanharinarayanan-ctrl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  </a>
+  <br />
+  <img src="https://streak-stats.demolab.com?user=srivathsanharinarayanan-ctrl&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivathsanharinarayanan-ctrl&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="96%" />
 </div>
 
 ---
 
-## 🌠 What I'm Working Toward
-
-My goal is to combine scientific curiosity with practical engineering: build tools that help explore astronomical data, investigate interesting questions, and make useful technology available to other researchers and developers.
-
-I'm especially interested in projects where **real scientific questions meet computation, automation, and open-source software**.
+## Contribution Animation
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/srivathsanharinarayanan-ctrl/srivathsanharinarayanan-ctrl/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/srivathsanharinarayanan-ctrl/srivathsanharinarayanan-ctrl/output/github-snake.svg" />
+    <img alt="Animated snake moving across the GitHub contribution graph" src="https://raw.githubusercontent.com/srivathsanharinarayanan-ctrl/srivathsanharinarayanan-ctrl/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
 
-<a href="https://github.com/srivathsanharinarayanan-ctrl?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20my%20repositories-00D9FF?style=for-the-badge&logo=github&logoColor=08111d" alt="Explore repositories"/>
-</a>
+---
 
-<br/><br/>
+## What I'm Working Toward
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:102b46,100:080b16&height=100&section=footer" width="100%" alt="Footer"/>
+I'm interested in projects where real scientific questions meet computation, automation, and open-source software. I want to keep improving my research workflows, build useful scientific tools, and share my work in ways that other people can inspect and reproduce.
 
-<sub>Built with curiosity, code, and a fascination with the cosmos. 🌌</sub>
-
+<div align="center">
+  <a href="https://github.com/srivathsanharinarayanan-ctrl?tab=repositories"><img src="https://img.shields.io/badge/Browse%20Repositories-00C8F0?style=for-the-badge&logo=github&logoColor=07111d" alt="Browse repositories" /></a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b16,50:102b46,100:00d9ff&height=110&section=footer&animation=fadeIn" width="100%" alt="Animated galaxy-themed footer" />
+  <sub>Built with curiosity, code, and a fascination with the cosmos.</sub>
 </div>
