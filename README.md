@@ -1,8 +1,5 @@
 <div align="center">
-  <h1>
-    <img src="assets/name-animation.gif" width="92%" alt="SRIVATHSAN H.N. — animated glowing name" />
-  </h1>
-  <img src="assets/galaxy-3d.gif" width="100%" alt="Looping galaxy animation with a rotating spiral of stars" />
+  <img src="assets/profile-galaxy-name.gif" width="100%" alt="SRIVATHSAN H.N. glowing over an animated 3D galaxy" />
   <p><strong>ASTROPHYSICS · SCIENTIFIC COMPUTING · AI · OPEN SOURCE</strong></p>
 </div>
 
